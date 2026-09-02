@@ -1,0 +1,56 @@
+about:
+  description: A command line based editor inspired by Vim. Written in Nim.
+  license: GPL-3.0
+  homepage: https://editor.moe
+  head: 862fec3
+  archived: false
+  latestVersion: v0.4.0
+  collectedAt: 2026-09-02T04:00:31Z
+timeline:
+  created: 2017-08-06
+  lastCommit: 2026-09-01
+  lastRelease: 2026-02-12
+popularity:
+  star: 719
+  watcher: 12
+  fork: 36
+  release: 41
+  contributor: 25
+  pullRequest: 20
+  issue: 713
+language:
+  Nim: 10289076
+totalLine: 10289076
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 62
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 61
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 526
+    openPR: 0
+    closedIssue: 0
+    openIssue: 6
+    commit: 516
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 767
+    openPR: 0
+    closedIssue: 7
+    openIssue: 10
+    commit: 753
+  last360d:
+    since: 2025-09-07
+    release: 1
+    mergedPR: 881
+    openPR: 0
+    closedIssue: 16
+    openIssue: 11
+    commit: 878
