@@ -4,10 +4,10 @@ about:
     A command line based editor inspired by Vim. Written in Nim.
   license: GPL-3.0
   homepage: https://editor.moe
-  head: 8eb6d4c
+  head: 922593f
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T19:22:49Z
+  collectedAt: 2026-09-04T21:09:13Z
 timeline:
   created: 2017-08-06
   lastCommit: 2026-09-04
@@ -18,68 +18,101 @@ popularity:
   fork: 36
   release: 41
   contributor: 25
-  pullRequest: 2532
+  pullRequest: 2533
   issue: 713
 language:
-  Nim: 10408655
-totalBytes: 10408655
+  Nim: 10407904
+totalBytes: 10407904
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 72
+    mergedPR: 73
     openPR: 1
     closedIssue: 0
     openIssue: 2
-    commit: 72
+    commit: 73
   last60d:
     since: 2026-07-06
     release: 0
-    mergedPR: 335
+    mergedPR: 336
     openPR: 1
     closedIssue: 0
     openIssue: 4
-    commit: 325
+    commit: 326
   last90d:
     since: 2026-06-06
     release: 0
-    mergedPR: 527
+    mergedPR: 528
     openPR: 1
     closedIssue: 0
     openIssue: 6
-    commit: 527
+    commit: 528
   last180d:
     since: 2026-03-08
     release: 0
-    mergedPR: 770
+    mergedPR: 771
     openPR: 1
     closedIssue: 7
     openIssue: 10
-    commit: 764
+    commit: 765
   last360d:
     since: 2025-09-09
     release: 1
-    mergedPR: 892
+    mergedPR: 893
     openPR: 1
     closedIssue: 16
     openIssue: 11
-    commit: 889
+    commit: 890
   last720d:
     since: 2024-09-14
     release: 1
-    mergedPR: 1028
+    mergedPR: 1029
     openPR: 1
     closedIssue: 22
     openIssue: 11
-    commit: 1027
+    commit: 1028
 total:
   release: 41
-  mergedPR: 2511
+  mergedPR: 2512
   openPR: 4
   closedIssue: 670
   openIssue: 43
-  commit: 5559
+  commit: 5560
 ---
+path: /home/runner/.x-repo/github.com/fox0430/moe
+collectedAt: 2026-09-04T21:09:16Z
+loc:
+  Nim:
+    code: 211574
+    comments: 34831
+    blanks: 40216
+    files: 527
+  Toml:
+    code: 978
+    comments: 237
+    blanks: 433
+    files: 5
+  Json:
+    code: 143
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2573
+    blanks: 752
+    files: 8
+total:
+  code: 212803
+  comments: 37655
+  blanks: 41432
+  files: 542
 ---
 date: "2026-08-24"
 repo:
