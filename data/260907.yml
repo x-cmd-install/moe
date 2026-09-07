@@ -2,13 +2,13 @@ about:
   description: "A command line based editor inspired by Vim. Written in Nim."
   license: GPL-3.0
   homepage: https://editor.moe
-  head: 1df5de2
+  head: 57f8f21
   archived: false
   latestVersion: "v0.4.0"
-  collectedAt: 2026-09-07T04:15:54Z
+  collectedAt: 2026-09-07T20:01:30Z
 timeline:
   created: 2017-08-06
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-02-12
 popularity:
   star: 719
@@ -16,75 +16,75 @@ popularity:
   fork: 36
   release: 41
   contributor: 25
-  pullRequest: 2537
+  pullRequest: 2538
   issue: 713
 language:
-  Nim: 10455729
-totalBytes: 10455729
+  Nim: 10478271
+totalBytes: 10478271
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 74
+    mergedPR: 75
     openPR: 2
     closedIssue: 0
     openIssue: 2
-    commit: 64
+    commit: 65
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 324
+    mergedPR: 325
     openPR: 2
     closedIssue: 0
     openIssue: 4
-    commit: 262
+    commit: 263
   last90d:
     since: 2026-06-09
     release: 0
-    mergedPR: 494
+    mergedPR: 495
     openPR: 2
     closedIssue: 0
     openIssue: 6
-    commit: 470
+    commit: 471
   last180d:
     since: 2026-03-11
     release: 0
-    mergedPR: 770
+    mergedPR: 771
     openPR: 2
     closedIssue: 7
     openIssue: 10
-    commit: 752
+    commit: 753
   last360d:
     since: 2025-09-12
     release: 1
-    mergedPR: 894
+    mergedPR: 895
     openPR: 2
     closedIssue: 16
     openIssue: 11
-    commit: 890
+    commit: 891
   last720d:
     since: 2024-09-17
     release: 1
-    mergedPR: 1032
+    mergedPR: 1033
     openPR: 2
     closedIssue: 22
     openIssue: 11
-    commit: 1030
+    commit: 1031
 total:
   release: 41
-  mergedPR: 2515
+  mergedPR: 2516
   openPR: 5
   closedIssue: 670
   openIssue: 43
-  commit: 5563
+  commit: 5564
 ---
 path: /home/runner/.x-repo/github.com/fox0430/moe
-collectedAt: 2026-09-07T04:16:00Z
+collectedAt: 2026-09-07T20:01:35Z
 loc:
   Nim:
-    code: 212453
-    comments: 35058
-    blanks: 40398
+    code: 212929
+    comments: 35075
+    blanks: 40433
     files: 532
   Toml:
     code: 978
@@ -103,13 +103,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 2582
+    comments: 2589
     blanks: 754
     files: 8
 total:
-  code: 213682
-  comments: 37891
-  blanks: 41616
+  code: 214158
+  comments: 37915
+  blanks: 41651
   files: 547
 ---
 date: "2026-08-24"
@@ -215,7 +215,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:16:01+00:00
+  collectedAt: 2026-09-07T20:01:37+00:00
   platform:
     darwin/arm64:
       name:  null
