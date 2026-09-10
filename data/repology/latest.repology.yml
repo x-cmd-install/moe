@@ -1,0 +1,595 @@
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.6"
+  origversion: 1.6-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.7"
+  origversion: 1.7-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.8"
+  origversion: 1.8-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.9"
+  origversion: 1.9-1
+  status: legacy
+- repo: hpux_11_31
+  subrepo: ia64_64
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+- repo: hpux_11_31
+  subrepo: ia64_64
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.9"
+  origversion: null
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.10"
+  origversion: 1.10-1
+  status: outdated
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.4"
+  origversion: 1.4-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.5"
+  origversion: 1.5-1
+  status: legacy
+- repo: alpine_edge
+  subrepo: testing
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.14"
+  origversion: 1.14-r0
+  status: outdated
+  summary: powerful and user-friendly text editor
+  maintainers:
+    - aklitzing@gmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: moe
+  binname: moe-doc
+  visiblename: moe-doc
+  version: "1.14"
+  origversion: 1.14-r0
+  status: outdated
+  summary: powerful and user-friendly text editor (documentation)
+  maintainers:
+    - aklitzing@gmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: altsisyphus
+  srcname: moe
+  binnames:
+    - moe
+    - moe-debuginfo
+  visiblename: moe
+  version: "1.16"
+  origversion: 1.16-alt1
+  status: newest
+  summary: A Text Editor
+  maintainers:
+    - mike@altlinux.org
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Editors
+- repo: aur
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.14"
+  origversion: 1.14-1
+  status: outdated
+  summary: A powerful, 8-bit clean, text editor. Supports ISO-8859-15 and ASCII.
+  maintainers:
+    - bunder@aur
+  licenses:
+    - GPL
+- repo: fedora_39
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+    - moe-debuginfo
+    - moe-debugsource
+  visiblename: moe
+  version: "1.13"
+  origversion: 1.13-3.fc39
+  status: outdated
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: moe
+  binnames:
+    - moe
+    - moe-debuginfo
+    - moe-debugsource
+  visiblename: moe
+  version: "1.15"
+  origversion: 1.15-1.fc40
+  status: outdated
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+    - moe-debuginfo
+    - moe-debugsource
+  visiblename: moe
+  version: "1.14"
+  origversion: 1.14-2.fc40
+  status: legacy
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.15"
+  origversion: 1.15-1.fc41
+  status: outdated
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.14"
+  origversion: 1.14-3.fc41
+  status: legacy
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.15"
+  origversion: 1.15-2.fc42
+  status: outdated
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.15"
+  origversion: 1.15-3.fc43
+  status: outdated
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.16"
+  origversion: 1.16-1.fc44
+  status: newest
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.16"
+  origversion: 1.16-2.fc45
+  status: newest
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: gentoo
+  srcname: app-editors/moe
+  visiblename: app-editors/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Powerful and user-friendly console text editor
+  maintainers:
+    - maintainer-needed@gentoo.org
+  licenses:
+    - GPL-2+
+  categories:
+    - app-editors
+- repo: gentoo
+  srcname: app-editors/moe
+  visiblename: app-editors/moe
+  version: "1.15"
+  origversion: null
+  status: legacy
+  summary: Powerful and user-friendly console text editor
+  maintainers:
+    - maintainer-needed@gentoo.org
+  licenses:
+    - GPL-2+
+  categories:
+    - app-editors
+- repo: gnuguix
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Modeless, multiple-buffer, user-friendly 8-bit text editor
+- repo: homebrew
+  srcname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Console text editor for ISO-8859 and ASCII
+- repo: hpux_11_31
+  subrepo: hppa_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.10"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: hppa_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.5"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: hppa_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.9"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: ia64_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.9"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: ia64_64
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.10"
+  origversion: null
+  status: legacy
+- repo: liguros_stable
+  srcname: app-editors/moe
+  visiblename: app-editors/moe
+  version: "1.15"
+  origversion: null
+  status: outdated
+  summary: Powerful and user-friendly console text editor
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - GPL-2+
+  categories:
+    - app-editors
+- repo: liguros_develop
+  srcname: app-editors/moe
+  visiblename: app-editors/moe
+  version: "1.15"
+  origversion: null
+  status: legacy
+  summary: Powerful and user-friendly console text editor
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - GPL-2+
+  categories:
+    - app-editors
+- repo: liguros_develop
+  srcname: app-editors/moe
+  visiblename: app-editors/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Powerful and user-friendly console text editor
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - GPL-2+
+  categories:
+    - app-editors
+- repo: macports
+  srcname: editors/moe
+  binname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: GNU moe - console text editor for ISO-8859 and ASCII character encodings.
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - GPL-2+
+  categories:
+    - editors
+- repo: nix_stable_24_05
+  srcname: moe
+  visiblename: moe
+  version: "1.14"
+  origversion: null
+  status: outdated
+  summary: A small, 8-bit clean editor
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_24_11
+  srcname: moe
+  visiblename: moe
+  version: "1.14"
+  origversion: null
+  status: outdated
+  summary: Small, 8-bit clean editor
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_25_05
+  srcname: moe
+  visiblename: moe
+  version: "1.15"
+  origversion: null
+  status: outdated
+  summary: Small, 8-bit clean editor
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_25_11
+  srcname: moe
+  visiblename: moe
+  version: "1.15"
+  origversion: null
+  status: outdated
+  summary: Small, 8-bit clean editor
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_26_05
+  srcname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Small, 8-bit clean editor
+  maintainers:
+    - thibaut.smith@mailbox.org
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_unstable
+  srcname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Small, 8-bit clean editor
+  maintainers:
+    - thibaut.smith@mailbox.org
+  licenses:
+    - GPL-2.0-or-later
+- repo: openbsd
+  srcname: editors/moe
+  binname: moe
+  visiblename: editors/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: powerful and user-friendly console text editor
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - editors
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: moe
+  visiblename: moe
+  version: "1.12"
+  origversion: 1.12-bp155.1.6
+  status: outdated
+  summary: A Text Editor
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Productivity/Text/Editors
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: moe
+  visiblename: moe
+  version: "1.13"
+  origversion: 1.13-bp156.1.5
+  status: outdated
+  summary: A Text Editor
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Productivity/Text/Editors
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: moe
+  binnames:
+    - moe
+    - moe-debuginfo
+    - moe-debugsource
+  visiblename: moe
+  version: "1.16"
+  origversion: 1.16-1.4
+  status: newest
+  summary: A Text Editor
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Productivity/Text/Editors
+- repo: pkgsrc_2026_1
+  srcname: editors/moe
+  binname: moe
+  visiblename: editors/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Modeless, user-friendly console text editor
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - editors
+- repo: pkgsrc_2026_2
+  srcname: editors/moe
+  binname: moe
+  visiblename: editors/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Modeless, user-friendly console text editor
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - editors
+- repo: pkgsrc_current
+  srcname: editors/moe
+  binname: moe
+  visiblename: editors/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Modeless, user-friendly console text editor
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - editors
+- repo: pld
+  srcname: moe
+  visiblename: moe
+  version: "1.15"
+  origversion: 1.15-1
+  status: outdated
+- repo: stalix
+  srcname: bin/moe
+  binname: bin/moe
+  visiblename: bin/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/moe
+  binname: bin/moe
+  visiblename: bin/moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: t2
+  srcname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: A powerful and user-friendly console text editor
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - GPL
+  categories:
+    - extra/editor
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: "1.16_1"
+  status: newest
+  summary: Powerful and user-friendly text editor
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - GPL-2.0-or-later
+- repo: wikidata
+  srcname: Q3093311
+  visiblename: GNU moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: modeless, multiple-buffer, user-friendly 8-bit text editor
+  licenses:
+    - GNU General Public License, version 2.0 or later
