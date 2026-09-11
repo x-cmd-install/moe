@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 82 | 0 | 0 | 2 | 78 |
-| last60d | 2026-07-12 | 0 | 282 | 0 | 0 | 3 | 276 |
-| 90d | 2026-06-12 | 0 | 489 | 0 | 0 | 4 | 484 |
-| last180d | 2026-03-14 | 0 | 776 | 0 | 8 | 9 | 766 |
-| 360d | 2025-09-15 | 1 | 907 | 0 | 17 | 10 | 904 |
-| last720d | 2024-09-20 | 1 | 1044 | 0 | 23 | 10 | 1043 |
+| 30d | 2026-08-12 | 0 | 78 | 0 | 0 | 2 | 78 |
+| last60d | 2026-07-13 | 0 | 276 | 0 | 0 | 3 | 276 |
+| 90d | 2026-06-13 | 0 | 485 | 0 | 0 | 4 | 484 |
+| last180d | 2026-03-15 | 0 | 770 | 0 | 8 | 8 | 766 |
+| 360d | 2025-09-16 | 1 | 907 | 0 | 17 | 10 | 904 |
+| last720d | 2024-09-21 | 1 | 1044 | 0 | 23 | 10 | 1043 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:32:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:19:33Z._
