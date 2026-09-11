@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:19:22Z
+  collectedAt: 2026-09-11T20:44:29Z
 timeline:
   created: 2017-08-06
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-12
   lastPrerelease: 
 popularity:
-  star: 721
+  star: 722
   watcher: 12
   fork: 36
   release: 41
@@ -83,7 +83,7 @@ total:
   commit: 5577
 ---
 path: /home/runner/.x-repo/github.com/fox0430/moe
-collectedAt: 2026-09-11T04:19:27Z
+collectedAt: 2026-09-11T20:44:33Z
 loc:
   Nim:
     code: 220597
