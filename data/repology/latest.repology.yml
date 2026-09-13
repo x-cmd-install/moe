@@ -1,6 +1,24 @@
 - repo: aix_osp
   srcname: moe
   visiblename: moe
+  version: "1.10"
+  origversion: 1.10-1
+  status: outdated
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.4"
+  origversion: 1.4-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.5"
+  origversion: 1.5-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
   version: "1.6"
   origversion: 1.6-1
   status: legacy
@@ -21,40 +39,6 @@
   visiblename: moe
   version: "1.9"
   origversion: 1.9-1
-  status: legacy
-- repo: hpux_11_31
-  subrepo: ia64_64
-  srcname: moe
-  binname: moe
-  visiblename: moe
-  version: "1.16"
-  origversion: null
-  status: newest
-- repo: hpux_11_31
-  subrepo: ia64_64
-  srcname: moe
-  binname: moe
-  visiblename: moe
-  version: "1.9"
-  origversion: null
-  status: legacy
-- repo: aix_osp
-  srcname: moe
-  visiblename: moe
-  version: "1.10"
-  origversion: 1.10-1
-  status: outdated
-- repo: aix_osp
-  srcname: moe
-  visiblename: moe
-  version: "1.4"
-  origversion: 1.4-1
-  status: legacy
-- repo: aix_osp
-  srcname: moe
-  visiblename: moe
-  version: "1.5"
-  origversion: 1.5-1
   status: legacy
 - repo: alpine_edge
   subrepo: testing
@@ -127,22 +111,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: moe
-  binnames:
-    - moe
-    - moe-debuginfo
-    - moe-debugsource
-  visiblename: moe
-  version: "1.15"
-  origversion: 1.15-1.fc40
-  status: outdated
-  summary: A powerful clean text editor
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: moe
   binnames:
@@ -158,14 +126,16 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: updates
   srcname: moe
   binnames:
     - moe
+    - moe-debuginfo
+    - moe-debugsource
   visiblename: moe
   version: "1.15"
-  origversion: 1.15-1.fc41
+  origversion: 1.15-1.fc40
   status: outdated
   summary: A powerful clean text editor
   licenses:
@@ -181,6 +151,20 @@
   version: "1.14"
   origversion: 1.14-3.fc41
   status: legacy
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.15"
+  origversion: 1.15-1.fc41
+  status: outdated
   summary: A powerful clean text editor
   licenses:
     - GPL-3.0-or-later
@@ -321,6 +305,22 @@
   binname: moe
   visiblename: moe
   version: "1.10"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: ia64_64
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+- repo: hpux_11_31
+  subrepo: ia64_64
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.9"
   origversion: null
   status: legacy
 - repo: liguros_stable
