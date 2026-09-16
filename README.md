@@ -14,24 +14,24 @@ x install moe
 
 ## Code insight
 
-Total: **226,633** lines of code across **564** files in the top 5 languages.
+Total: **227,262** lines of code across **568** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 225,485 | 36,988 | 42,365 | 548 |
+| Nim | 226,114 | 37,233 | 42,508 | 552 |
 | Toml | 1,001 | 240 | 439 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
-| Markdown | 0 | 2,736 | 786 | 9 |
+| Markdown | 0 | 2,738 | 786 | 9 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.0` (2026-02-12)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2542 · **Open PRs**: 3 · **Closed issues**: 671 · **Open issues**: 42 · **Commits**: 5590
+- **Releases**: 41 · **Merged PRs**: 2543 · **Open PRs**: 3 · **Closed issues**: 671 · **Open issues**: 42 · **Commits**: 5591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 76 | 0 | 0 | 2 | 73 |
-| last60d | 2026-07-17 | 0 | 263 | 0 | 0 | 3 | 220 |
-| 90d | 2026-06-17 | 0 | 482 | 0 | 0 | 4 | 462 |
-| last180d | 2026-03-19 | 0 | 776 | 0 | 8 | 7 | 764 |
-| 360d | 2025-09-20 | 1 | 920 | 0 | 17 | 10 | 917 |
-| last720d | 2024-09-25 | 1 | 1057 | 0 | 23 | 10 | 1056 |
+| 30d | 2026-08-17 | 0 | 75 | 0 | 0 | 2 | 74 |
+| last60d | 2026-07-18 | 0 | 247 | 0 | 0 | 2 | 221 |
+| 90d | 2026-06-18 | 0 | 482 | 0 | 0 | 4 | 463 |
+| last180d | 2026-03-20 | 0 | 767 | 0 | 8 | 7 | 765 |
+| 360d | 2025-09-21 | 1 | 921 | 0 | 17 | 10 | 918 |
+| last720d | 2024-09-26 | 1 | 1058 | 0 | 23 | 10 | 1057 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:37:45Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:32:54Z._
