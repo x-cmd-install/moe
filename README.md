@@ -14,11 +14,11 @@ x install moe
 
 ## Code insight
 
-Total: **227,262** lines of code across **568** files in the top 5 languages.
+Total: **227,350** lines of code across **569** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 226,114 | 37,233 | 42,508 | 552 |
+| Nim | 226,202 | 37,206 | 42,517 | 553 |
 | Toml | 1,001 | 240 | 439 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.0` (2026-02-12)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-17
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2543 · **Open PRs**: 3 · **Closed issues**: 671 · **Open issues**: 42 · **Commits**: 5591
+- **Releases**: 41 · **Merged PRs**: 2551 · **Open PRs**: 3 · **Closed issues**: 671 · **Open issues**: 42 · **Commits**: 5599
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 75 | 0 | 0 | 2 | 74 |
-| last60d | 2026-07-19 | 0 | 235 | 0 | 0 | 2 | 221 |
-| 90d | 2026-06-19 | 0 | 480 | 0 | 0 | 4 | 463 |
-| last180d | 2026-03-21 | 0 | 766 | 0 | 8 | 7 | 765 |
-| 360d | 2025-09-22 | 1 | 921 | 0 | 17 | 10 | 918 |
-| last720d | 2024-09-27 | 1 | 1058 | 0 | 23 | 10 | 1057 |
+| 30d | 2026-08-19 | 0 | 83 | 0 | 0 | 2 | 82 |
+| last60d | 2026-07-20 | 0 | 228 | 0 | 0 | 2 | 229 |
+| 90d | 2026-06-20 | 0 | 476 | 0 | 0 | 4 | 471 |
+| last180d | 2026-03-22 | 0 | 774 | 0 | 8 | 7 | 773 |
+| 360d | 2025-09-23 | 1 | 929 | 0 | 17 | 10 | 926 |
+| last720d | 2024-09-28 | 1 | 1066 | 0 | 23 | 10 | 1065 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:38:35Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:23:34Z._
