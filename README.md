@@ -4,7 +4,7 @@
 
 A command line based editor inspired by Vim. Written in Nim.
 
-![moe](https://repo.x-cmd.io/moe.svg)
+[![x-cmd/install — moe Code Quality Monitoring Repo Card](https://repo.x-cmd.io/moe.svg)](https://x-cmd.com/install/moe)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install moe
 
 ## Code insight
 
-Total: **227,350** lines of code across **569** files in the top 5 languages.
+Total: **227,957** lines of code across **569** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 226,202 | 37,206 | 42,517 | 553 |
+| Nim | 226,809 | 37,334 | 42,622 | 553 |
 | Toml | 1,001 | 240 | 439 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
-| Markdown | 0 | 2,738 | 786 | 9 |
+| Markdown | 0 | 2,739 | 786 | 9 |
 
 ## OpenSSF Scorecard
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.0` (2026-02-12)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 723 · **Forks**: 36 · **Open issues**: 713 · **Contributors**: 25
+- **Stars**: 725 · **Forks**: 36 · **Open issues**: 713 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2551 · **Open PRs**: 3 · **Closed issues**: 671 · **Open issues**: 42 · **Commits**: 5599
+- **Releases**: 41 · **Merged PRs**: 2555 · **Open PRs**: 3 · **Closed issues**: 671 · **Open issues**: 42 · **Commits**: 5603
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 83 | 0 | 0 | 2 | 82 |
-| last60d | 2026-07-20 | 0 | 228 | 0 | 0 | 2 | 229 |
-| 90d | 2026-06-20 | 0 | 476 | 0 | 0 | 4 | 471 |
-| last180d | 2026-03-22 | 0 | 774 | 0 | 8 | 7 | 773 |
-| 360d | 2025-09-23 | 1 | 929 | 0 | 17 | 10 | 926 |
-| last720d | 2024-09-28 | 1 | 1066 | 0 | 23 | 10 | 1065 |
+| 30d | 2026-08-21 | 0 | 86 | 0 | 0 | 2 | 75 |
+| last60d | 2026-07-22 | 0 | 207 | 0 | 0 | 2 | 141 |
+| 90d | 2026-06-22 | 0 | 466 | 0 | 0 | 4 | 437 |
+| last180d | 2026-03-24 | 0 | 766 | 0 | 7 | 7 | 759 |
+| 360d | 2025-09-25 | 1 | 933 | 0 | 17 | 10 | 930 |
+| last720d | 2024-09-30 | 1 | 1070 | 0 | 23 | 10 | 1069 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:23:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:39:29Z._
