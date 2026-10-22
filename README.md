@@ -14,15 +14,15 @@ x install moe
 
 ## Code insight
 
-Total: **258,814** lines of code across **632** files in the top 5 languages.
+Total: **259,471** lines of code across **634** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 257,667 | 40,965 | 47,309 | 616 |
+| Nim | 258,324 | 41,064 | 47,400 | 618 |
 | Toml | 1,000 | 267 | 440 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
-| Markdown | 0 | 3,067 | 848 | 9 |
+| Markdown | 0 | 3,071 | 848 | 9 |
 
 ## OpenSSF Scorecard
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2665 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 41 · **Commits**: 5713
+- **Releases**: 41 · **Merged PRs**: 2667 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 41 · **Commits**: 5715
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 101 | 0 | 0 | 0 | 98 |
-| last60d | 2026-08-22 | 0 | 193 | 0 | 1 | 1 | 192 |
-| 90d | 2026-07-23 | 0 | 307 | 0 | 1 | 1 | 274 |
-| last180d | 2026-04-24 | 0 | 819 | 0 | 4 | 5 | 817 |
-| 360d | 2025-10-26 | 1 | 1041 | 0 | 18 | 9 | 1038 |
-| last720d | 2024-10-31 | 1 | 1168 | 0 | 24 | 9 | 1167 |
+| 30d | 2026-09-22 | 0 | 102 | 0 | 0 | 0 | 100 |
+| last60d | 2026-08-23 | 0 | 195 | 0 | 1 | 1 | 194 |
+| 90d | 2026-07-24 | 0 | 305 | 0 | 1 | 1 | 276 |
+| last180d | 2026-04-25 | 0 | 821 | 0 | 4 | 5 | 819 |
+| 360d | 2025-10-27 | 1 | 1043 | 0 | 18 | 9 | 1040 |
+| last720d | 2024-11-01 | 1 | 1170 | 0 | 24 | 9 | 1169 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:24:12Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:22:44Z._
