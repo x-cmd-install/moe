@@ -14,11 +14,11 @@ x install moe
 
 ## Code insight
 
-Total: **259,471** lines of code across **634** files in the top 5 languages.
+Total: **260,785** lines of code across **636** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 258,324 | 41,064 | 47,400 | 618 |
+| Nim | 259,638 | 41,259 | 47,515 | 620 |
 | Toml | 1,000 | 267 | 440 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.0` (2026-02-12)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
@@ -51,18 +51,31 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2667 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 41 · **Commits**: 5715
+- **Releases**: 41 · **Merged PRs**: 2669 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 41 · **Commits**: 5717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 102 | 0 | 0 | 0 | 100 |
-| last60d | 2026-08-23 | 0 | 195 | 0 | 1 | 1 | 194 |
-| 90d | 2026-07-24 | 0 | 305 | 0 | 1 | 1 | 276 |
-| last180d | 2026-04-25 | 0 | 821 | 0 | 4 | 5 | 819 |
-| 360d | 2025-10-27 | 1 | 1043 | 0 | 18 | 9 | 1040 |
-| last720d | 2024-11-01 | 1 | 1170 | 0 | 24 | 9 | 1169 |
+| 30d | 2026-09-23 | 0 | 102 | 0 | 0 | 0 | 102 |
+| last60d | 2026-08-24 | 0 | 195 | 0 | 1 | 1 | 196 |
+| 90d | 2026-07-25 | 0 | 277 | 0 | 1 | 1 | 278 |
+| last180d | 2026-04-26 | 0 | 822 | 0 | 4 | 5 | 821 |
+| 360d | 2025-10-28 | 1 | 1045 | 0 | 18 | 9 | 1042 |
+| last720d | 2024-11-02 | 1 | 1172 | 0 | 24 | 9 | 1171 |
+
+## Distribution status
+
+Reported by **55** distros on [repology.org](https://repology.org/project/moe). **21** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.16` | ✅ latest |
+| Fedora rawhide | `1.16` | ✅ latest |
+| Nix unstable | `1.16` | ✅ latest |
+| Void | `1.16` | ✅ latest |
+| Alpine edge | `1.14` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.16` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +86,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:22:44Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:27:51Z._
