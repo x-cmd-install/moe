@@ -1,28 +1,4 @@
 - repo: hpux_11_31
-  subrepo: hppa_32
-  srcname: moe
-  binname: moe
-  visiblename: moe
-  version: "1.5"
-  origversion: null
-  status: legacy
-- repo: hpux_11_31
-  subrepo: hppa_32
-  srcname: moe
-  binname: moe
-  visiblename: moe
-  version: "1.9"
-  origversion: null
-  status: legacy
-- repo: hpux_11_31
-  subrepo: ia64_32
-  srcname: moe
-  binname: moe
-  visiblename: moe
-  version: "1.9"
-  origversion: null
-  status: legacy
-- repo: hpux_11_31
   subrepo: ia64_64
   srcname: moe
   binname: moe
@@ -38,21 +14,6 @@
   version: "1.16"
   origversion: null
   status: newest
-- repo: homebrew
-  srcname: moe
-  visiblename: moe
-  version: "1.16"
-  origversion: null
-  status: newest
-  summary: Console text editor for ISO-8859 and ASCII
-- repo: hpux_11_31
-  subrepo: hppa_32
-  srcname: moe
-  binname: moe
-  visiblename: moe
-  version: "1.10"
-  origversion: null
-  status: legacy
 - repo: hpux_11_31
   subrepo: ia64_64
   srcname: moe
@@ -61,22 +22,6 @@
   version: "1.9"
   origversion: null
   status: legacy
-- repo: altsisyphus
-  srcname: moe
-  binnames:
-    - moe
-    - moe-debuginfo
-  visiblename: moe
-  version: "1.16"
-  origversion: 1.16-alt1
-  status: newest
-  summary: A Text Editor
-  maintainers:
-    - mike@altlinux.org
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Editors
 - repo: aix_osp
   srcname: moe
   visiblename: moe
@@ -145,6 +90,22 @@
     - aklitzing@gmail.com
   licenses:
     - GPL-2.0-or-later
+- repo: altsisyphus
+  srcname: moe
+  binnames:
+    - moe
+    - moe-debuginfo
+  visiblename: moe
+  version: "1.16"
+  origversion: 1.16-alt1
+  status: newest
+  summary: A Text Editor
+  maintainers:
+    - mike@altlinux.org
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Editors
 - repo: aur
   srcname: moe
   binname: moe
@@ -174,22 +135,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: moe
-  binnames:
-    - moe
-    - moe-debuginfo
-    - moe-debugsource
-  visiblename: moe
-  version: "1.14"
-  origversion: 1.14-2.fc40
-  status: legacy
-  summary: A powerful clean text editor
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: moe
   binnames:
@@ -205,14 +150,16 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: release
   srcname: moe
   binnames:
     - moe
+    - moe-debuginfo
+    - moe-debugsource
   visiblename: moe
   version: "1.14"
-  origversion: 1.14-3.fc41
+  origversion: 1.14-2.fc40
   status: legacy
   summary: A powerful clean text editor
   licenses:
@@ -228,6 +175,20 @@
   version: "1.15"
   origversion: 1.15-1.fc41
   status: outdated
+  summary: A powerful clean text editor
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: moe
+  binnames:
+    - moe
+  visiblename: moe
+  version: "1.14"
+  origversion: 1.14-3.fc41
+  status: legacy
   summary: A powerful clean text editor
   licenses:
     - GPL-3.0-or-later
@@ -323,6 +284,45 @@
   origversion: null
   status: newest
   summary: Modeless, multiple-buffer, user-friendly 8-bit text editor
+- repo: homebrew
+  srcname: moe
+  visiblename: moe
+  version: "1.16"
+  origversion: null
+  status: newest
+  summary: Console text editor for ISO-8859 and ASCII
+- repo: hpux_11_31
+  subrepo: hppa_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.10"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: hppa_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.5"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: hppa_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.9"
+  origversion: null
+  status: legacy
+- repo: hpux_11_31
+  subrepo: ia64_32
+  srcname: moe
+  binname: moe
+  visiblename: moe
+  version: "1.9"
+  origversion: null
+  status: legacy
 - repo: liguros_stable
   srcname: app-editors/moe
   visiblename: app-editors/moe

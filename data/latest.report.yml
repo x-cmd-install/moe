@@ -2,94 +2,94 @@ about:
   description: "A command line based editor inspired by Vim. Written in Nim."
   license: GPL-3.0
   homepage: https://editor.moe
-  head: eba3699
+  head: 585ed34
   archived: false
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:28:46Z
+  collectedAt: 2026-10-30T05:28:31Z
 timeline:
   created: 2017-08-06
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2026-02-12
   lastRelease: 2026-02-12
   lastPrerelease: 
 popularity:
-  star: 729
+  star: 730
   watcher: 11
   fork: 36
   release: 41
   contributor: 25
-  pullRequest: 2706
+  pullRequest: 2709
   issue: 713
 language:
-  Nim: 12902903
-totalBytes: 12902903
+  Nim: 12932588
+totalBytes: 12932588
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 93
+    mergedPR: 92
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 90
+    commit: 93
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 189
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 186
+    commit: 189
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 245
+    mergedPR: 248
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 245
+    commit: 248
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
-    mergedPR: 824
+    mergedPR: 826
     openPR: 0
     closedIssue: 4
     openIssue: 5
-    commit: 823
+    commit: 826
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 1
-    mergedPR: 1059
+    mergedPR: 1062
     openPR: 0
     closedIssue: 18
     openIssue: 9
-    commit: 1056
+    commit: 1059
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 1
-    mergedPR: 1186
+    mergedPR: 1189
     openPR: 0
     closedIssue: 24
     openIssue: 9
-    commit: 1185
+    commit: 1188
 total:
   release: 41
-  mergedPR: 2683
+  mergedPR: 2686
   openPR: 3
   closedIssue: 672
   openIssue: 41
-  commit: 5731
+  commit: 5734
 ---
 path: /home/runner/.x-repo/github.com/fox0430/moe
-collectedAt: 2026-10-29T05:28:50Z
+collectedAt: 2026-10-30T05:28:36Z
 loc:
   Nim:
-    code: 263494
-    comments: 41732
-    blanks: 48055
-    files: 627
+    code: 264081
+    comments: 41782
+    blanks: 48136
+    files: 628
   Toml:
     code: 1000
     comments: 267
@@ -111,10 +111,10 @@ loc:
     blanks: 848
     files: 9
 total:
-  code: 264804
-  comments: 45111
-  blanks: 49384
-  files: 643
+  code: 265391
+  comments: 45161
+  blanks: 49465
+  files: 644
 ---
 date: "2026-10-26"
 repo:
