@@ -14,15 +14,15 @@ x install moe
 
 ## Code insight
 
-Total: **265,228** lines of code across **644** files in the top 5 languages.
+Total: **265,576** lines of code across **644** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 264,081 | 41,782 | 48,136 | 628 |
-| Toml | 1,000 | 267 | 440 | 5 |
+| Nim | 264,428 | 41,810 | 48,175 | 628 |
+| Toml | 1,001 | 267 | 441 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
-| Markdown | 0 | 3,089 | 848 | 9 |
+| Markdown | 0 | 3,102 | 851 | 9 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.0` (2026-02-12)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-31
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2686 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 41 · **Commits**: 5734
+- **Releases**: 41 · **Merged PRs**: 2688 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 41 · **Commits**: 5736
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 92 | 0 | 0 | 0 | 93 |
-| last60d | 2026-08-31 | 0 | 189 | 0 | 0 | 1 | 189 |
-| 90d | 2026-08-01 | 0 | 248 | 0 | 1 | 1 | 248 |
-| last180d | 2026-05-03 | 0 | 826 | 0 | 4 | 5 | 826 |
-| 360d | 2025-11-04 | 1 | 1062 | 0 | 18 | 9 | 1059 |
-| last720d | 2024-11-09 | 1 | 1189 | 0 | 24 | 9 | 1188 |
+| 30d | 2026-10-01 | 0 | 92 | 0 | 0 | 0 | 95 |
+| last60d | 2026-09-01 | 0 | 188 | 0 | 0 | 0 | 191 |
+| 90d | 2026-08-02 | 0 | 250 | 0 | 1 | 1 | 250 |
+| last180d | 2026-05-04 | 0 | 827 | 0 | 4 | 5 | 828 |
+| 360d | 2025-11-05 | 1 | 1064 | 0 | 18 | 9 | 1061 |
+| last720d | 2024-11-10 | 1 | 1191 | 0 | 24 | 9 | 1190 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:28:43Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:14:28Z._
