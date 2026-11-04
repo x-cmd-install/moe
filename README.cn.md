@@ -14,15 +14,15 @@ x install moe
 
 ## 代码洞察
 
-合计: **268,340** 行代码（覆盖前 5 种语言、共 **652** 个文件）。
+合计: **268,679** 行代码（覆盖前 5 种语言、共 **653** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Nim | 267,192 | 42,053 | 48,493 | 636 |
+| Nim | 267,531 | 42,061 | 48,552 | 637 |
 | Toml | 1,001 | 267 | 441 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
-| Markdown | 0 | 3,106 | 851 | 9 |
+| Markdown | 0 | 3,140 | 856 | 9 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,9 +30,9 @@ x install moe
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -51,18 +51,18 @@ x install moe
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 2702 · **开放 PR**: 3 · **已关闭 issue**: 672 · **开放 issue**: 41 · **提交数**: 5750
+- **发布数**: 41 · **已合并 PR**: 2703 · **开放 PR**: 4 · **已关闭 issue**: 672 · **开放 issue**: 41 · **提交数**: 5751
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 95 | 0 | 0 | 0 | 85 |
-| last60d | 2026-09-04 | 0 | 188 | 0 | 0 | 0 | 185 |
-| 90d | 2026-08-05 | 0 | 263 | 0 | 1 | 1 | 261 |
-| last180d | 2026-05-07 | 0 | 841 | 0 | 4 | 5 | 841 |
-| 360d | 2025-11-08 | 1 | 1078 | 0 | 18 | 9 | 1075 |
-| last720d | 2024-11-13 | 1 | 1205 | 0 | 24 | 9 | 1204 |
+| 30d | 2026-10-05 | 0 | 93 | 1 | 0 | 0 | 86 |
+| last60d | 2026-09-05 | 0 | 188 | 1 | 0 | 0 | 186 |
+| 90d | 2026-08-06 | 0 | 263 | 1 | 1 | 1 | 262 |
+| last180d | 2026-05-08 | 0 | 842 | 1 | 4 | 5 | 842 |
+| 360d | 2025-11-09 | 1 | 1079 | 1 | 18 | 9 | 1076 |
+| last720d | 2024-11-14 | 1 | 1206 | 1 | 24 | 9 | 1205 |
 
 ## 发行版状态
 
@@ -86,4 +86,4 @@ moe 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T06:23:35Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T05:56:14Z._
