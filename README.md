@@ -14,12 +14,12 @@ x install moe
 
 ## Code insight
 
-Total: **271,416** lines of code across **647** files in the top 5 languages.
+Total: **273,630** lines of code across **649** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 270,258 | 42,250 | 49,013 | 639 |
-| Toml | 1,001 | 267 | 441 | 5 |
+| Nim | 272,471 | 42,323 | 49,273 | 641 |
+| Toml | 1,002 | 267 | 442 | 5 |
 | Json | 143 | 0 | 0 | 1 |
 | Sh | 10 | 4 | 3 | 1 |
 | ForgeConfig | 4 | 0 | 0 | 1 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2715 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 46 · **Commits**: 5763
+- **Releases**: 41 · **Merged PRs**: 2720 · **Open PRs**: 3 · **Closed issues**: 672 · **Open issues**: 46 · **Commits**: 5768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 98 | 0 | 0 | 5 | 98 |
-| last60d | 2026-09-07 | 0 | 197 | 0 | 0 | 5 | 198 |
-| 90d | 2026-08-08 | 0 | 274 | 0 | 1 | 6 | 274 |
-| last180d | 2026-05-10 | 0 | 854 | 0 | 4 | 10 | 854 |
-| 360d | 2025-11-11 | 1 | 1091 | 0 | 18 | 14 | 1088 |
-| last720d | 2024-11-16 | 1 | 1218 | 0 | 24 | 14 | 1217 |
+| 30d | 2026-10-08 | 0 | 101 | 0 | 0 | 5 | 103 |
+| last60d | 2026-09-08 | 0 | 202 | 0 | 0 | 5 | 203 |
+| 90d | 2026-08-09 | 0 | 279 | 0 | 1 | 6 | 279 |
+| last180d | 2026-05-11 | 0 | 857 | 0 | 4 | 10 | 859 |
+| 360d | 2025-11-12 | 1 | 1096 | 0 | 18 | 14 | 1093 |
+| last720d | 2024-11-17 | 1 | 1223 | 0 | 24 | 14 | 1222 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:14:31Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:41:46Z._
