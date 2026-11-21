@@ -14,12 +14,12 @@ x install moe
 
 ## Code insight
 
-Total: **295,191** lines of code across **692** files in the top 5 languages.
+Total: **297,344** lines of code across **696** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Nim | 293,494 | 44,737 | 51,912 | 682 |
-| Toml | 1,269 | 354 | 521 | 6 |
+| Nim | 295,647 | 44,952 | 52,164 | 686 |
+| Toml | 1,269 | 360 | 522 | 6 |
 | VimScript | 270 | 0 | 0 | 1 |
 | Json | 144 | 0 | 0 | 2 |
 | Sh | 10 | 4 | 3 | 1 |
@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.0` (2026-02-12)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 732 · **Forks**: 37 · **Open issues**: 738 · **Contributors**: 26
+- **Stars**: 732 · **Forks**: 37 · **Open issues**: 747 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 2803 · **Open PRs**: 4 · **Closed issues**: 688 · **Open issues**: 50 · **Commits**: 5851
+- **Releases**: 41 · **Merged PRs**: 2816 · **Open PRs**: 4 · **Closed issues**: 690 · **Open issues**: 57 · **Commits**: 5864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 136 | 1 | 16 | 9 | 136 |
-| last60d | 2026-09-21 | 0 | 239 | 1 | 16 | 9 | 239 |
-| 90d | 2026-08-22 | 0 | 331 | 1 | 17 | 10 | 331 |
-| last180d | 2026-05-24 | 0 | 885 | 1 | 17 | 14 | 885 |
-| 360d | 2025-11-25 | 1 | 1174 | 1 | 34 | 18 | 1171 |
-| last720d | 2024-11-30 | 1 | 1296 | 1 | 39 | 18 | 1295 |
+| 30d | 2026-10-22 | 0 | 147 | 1 | 18 | 16 | 149 |
+| last60d | 2026-09-22 | 0 | 251 | 1 | 18 | 16 | 252 |
+| 90d | 2026-08-23 | 0 | 344 | 1 | 19 | 17 | 344 |
+| last180d | 2026-05-25 | 0 | 895 | 1 | 19 | 21 | 898 |
+| 360d | 2025-11-26 | 1 | 1184 | 1 | 36 | 25 | 1184 |
+| last720d | 2024-12-01 | 1 | 1309 | 1 | 41 | 25 | 1308 |
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/moe). **23** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/moe). **24** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for moe lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:55:57Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:49:51Z._
