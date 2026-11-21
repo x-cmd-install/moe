@@ -7,6 +7,12 @@
 - repo: aix_osp
   srcname: moe
   visiblename: moe
+  version: "1.4"
+  origversion: 1.4-1
+  status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
   version: "1.6"
   origversion: 1.6-1
   status: legacy
@@ -28,6 +34,12 @@
   version: "1.9"
   origversion: 1.9-1
   status: legacy
+- repo: aix_osp
+  srcname: moe
+  visiblename: moe
+  version: "1.10"
+  origversion: 1.10-1
+  status: outdated
 - repo: alpine_edge
   subrepo: testing
   srcname: moe
@@ -41,18 +53,6 @@
     - aklitzing@gmail.com
   licenses:
     - GPL-2.0-or-later
-- repo: aix_osp
-  srcname: moe
-  visiblename: moe
-  version: "1.4"
-  origversion: 1.4-1
-  status: legacy
-- repo: aix_osp
-  srcname: moe
-  visiblename: moe
-  version: "1.10"
-  origversion: 1.10-1
-  status: outdated
 - repo: alpine_edge
   subrepo: testing
   srcname: moe
@@ -547,9 +547,9 @@
 - repo: pld
   srcname: moe
   visiblename: moe
-  version: "1.15"
-  origversion: 1.15-1
-  status: outdated
+  version: "1.16"
+  origversion: 1.16-1
+  status: newest
 - repo: stalix
   srcname: bin/moe
   binname: bin/moe
